@@ -11,7 +11,7 @@ Given an image, my algorithm will predict the most likely locations where the im
 The landmark images are a subset of the Google Landmarks Dataset v2. If you are seeing this on GitHub, the dataset is provided in the repo; otherwise, it can be obtained using
 [this link](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/datasets/landmark_images.zip).
 
-You can find license information for the full dataset [on Kaggle](https://www.kaggle.com/google/google-landmarks-
+You can find license information for the full dataset [on Kaggle](https://www.kaggle.com/google/google-landmarks-dataset).
 
 ## Model Output
 ![0](images/model_output.png)
